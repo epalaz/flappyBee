@@ -153,4 +153,4 @@ $(document).ready(function () {
               $(form_selector).attr('action', submit_url + '/mturk/externalSubmit');
             }
           }
-      }
+});
